@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>./bongocat/bongo.png</file>
+        <file>./bongocat/l1.png</file>
+        <file>./bongocat/l2.png</file>
+        <file>./bongocat/r1.png</file>
+        <file>./bongocat/r2.png</file>
+        <file>./bongocat/m1.png</file>
+        <file>./bongocat/m2.png</file>
+    </qresource>
+</RCC>

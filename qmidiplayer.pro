@@ -6,7 +6,8 @@ SUBDIRS = \
 	qmidiplayer-lite \
 	sample-plugin \
 	visualization \
-	midifmt-plugin
+        midifmt-plugin \
+        bongocat-plugin
 }
 android {
 SUBDIRS = \
